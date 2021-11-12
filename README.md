@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CodeCapo
-- 👀 I’m interested in Web Design, Software Development, Data Science and Machine Learning
+- 👋 Hi, I’m @Mks-Q
+- 👀 I’m interested in App/Software Development, Data Science & Machine Learning
 
 <!---
 CodeCapo/CodeCapo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
